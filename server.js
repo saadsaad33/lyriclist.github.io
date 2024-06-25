@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Replace with your actual API keys
-const geniusApiKey = 'iXtpxYnIe48T6haMq8L0EO6-Fjo3fhddTaFa6Xl1Is4tH7mjKZPw0gn3JP7jmBuS8PRXdKH5MOP-HAjLR06pyA';
+const geniusApiKey = 'dSEz7Zs3FJzNvwyEDivB2uJAttw6oq7MgvONWdj8CyTrQ2exbQiJ9jZckOWo62tWbGgn4uzhGoHwcjPIBJ25Aw';
 const lastfmApiKey = 'b8323903872df412ea5c9591caa23f2';
 
 // Endpoint to fetch song lyrics from Genius API
